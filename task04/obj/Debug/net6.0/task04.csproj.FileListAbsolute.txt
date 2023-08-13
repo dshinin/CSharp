@@ -1,0 +1,15 @@
+C:\_!_GB\CSharp\task04\bin\Debug\net6.0\task04.exe
+C:\_!_GB\CSharp\task04\bin\Debug\net6.0\task04.deps.json
+C:\_!_GB\CSharp\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+C:\_!_GB\CSharp\task04\bin\Debug\net6.0\task04.dll
+C:\_!_GB\CSharp\task04\bin\Debug\net6.0\task04.pdb
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.dll
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\refint\task04.dll
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.pdb
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+C:\_!_GB\CSharp\task04\obj\Debug\net6.0\ref\task04.dll
